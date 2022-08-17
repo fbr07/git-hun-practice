@@ -1,1 +1,1 @@
-# git-hun-practice
+# github-practice
